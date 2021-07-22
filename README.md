@@ -1,2 +1,2 @@
-# Study-OpenCV
+# Practice-OpenCV
 Studying OpenCV
